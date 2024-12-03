@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: Nguyen Pham Truong An
-* Student ID: 233BI14004
+* Student Name: Nguyễn Phạm Trường An
+* Student ID: 23BI14004
 
